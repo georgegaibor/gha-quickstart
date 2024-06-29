@@ -11,3 +11,6 @@
 
 * Workflow files must be created in a directory called `./github/workflows`.
 * Workflow files can have any name and should use `.yml` or `.yaml` as file name extension.
+
+## Build and redeploy test
+* POC after adding mdbook.yml
